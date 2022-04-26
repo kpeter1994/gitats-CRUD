@@ -11,7 +11,7 @@ echo "<div class='bg-primary py-3 mb-3'>
  <tr>
         <th>Id</th>
         <th>Gyártó</th>
-        <th>Típus2</th>
+        <th>Típus</th>
         <th>Kategoria id</th>
         <th>Húrok száma</th>
         <th>Ár</th>
